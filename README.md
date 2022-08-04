@@ -1,4 +1,4 @@
-# MontyHall
+# Monty Hall
  A simulated demonstration of the famous statistical puzzle, the Monty Hall problem.
 
 ![image](https://user-images.githubusercontent.com/96302110/165195538-c3ad3c02-0a45-48eb-b94e-7eb07521b74b.png)
